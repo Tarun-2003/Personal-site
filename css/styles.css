@@ -1,0 +1,127 @@
+
+body{
+  margin:0;
+  text-align: center;
+   font-family:cursive ;
+   color:black;
+
+
+}
+h1{
+  font-family:'Sacramento', cursive;
+
+  font-size: 100px;
+   color: #66BFBF;
+
+
+}
+#student{
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+.pro{
+  height: 300px;
+  padding-top: 50px;
+
+}
+
+
+
+
+.top{
+  background-color:#C6EBC5;
+
+  height:785px;
+  padding-top: 100px;
+
+
+}
+.bottom-cloud
+{
+ position:absolute;
+ left: 300px;
+
+
+}
+.top-cloud{
+  position: relative;
+  left: 300px;
+}
+.chi{
+  height: 200px;
+
+}
+.com{
+  height: 200px;
+  float: right;
+  margin-right: 40px;
+  margin-top: 30px;
+  ;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding:30px;
+}
+.skill-row{
+ width: 50%;
+ margin:100px auto 100px auto;
+ text-align: left;
+ line-height: 2;
+
+
+
+}
+.chi{
+  float: left;
+  margin-right: 30px;
+  position: relative;
+  bottom:25px;
+}
+.contact-me{
+
+  margin-top: 50px;
+}
+h2{
+  color:  #66BFBF;
+
+}
+h3{
+  color:  #66BFBF;
+}
+.btn {
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:15px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Georgia;
+	font-size:15px;
+	font-weight:bold;
+	font-style:italic;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #2b665e;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.middle-container{
+  background-color: #D8D8D8;
+}
+a{
+  color: #ADDDD0;
+  margin:0 8px 0 8px;
+  text-decoration: none;
+}
+a:hover{
+  color: #C6EBC5;
+}
